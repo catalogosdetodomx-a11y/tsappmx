@@ -1,12 +1,8 @@
-[
+<script>
+const materiales = [
   {"img": "https://www.appcreator24.com/srv/imgs/cards/o2014311_16148148.png?v=1", "link": "https://drive.google.com/uc?export=download&id=1Uig1KBRhyE7LFmJ0RS8Ot2ffhYm87QKH"},
-  {"img": "https://www.appcreator24.com/srv/imgs/cards/o2014311_16148148.png?v=1", "link": "https://drive.google.com/uc?export=download&id=1Uig1KBRhyE7LFmJ0RS8Ot2ffhYm87QKH"},
-  {"img": "https://www.appcreator24.com/srv/imgs/cards/o2014311_16148148.png?v=1", "link": "https://drive.google.com/uc?export=download&id=1Uig1KBRhyE7LFmJ0RS8Ot2ffhYm87QKH"},
-  {"img": "https://via.placeholder.com/120x160?text=4", "link": "https://drive.google.com/uc?export=download&id=1Uig1KBRhyE7LFmJ0RS8Ot2ffhYm87QKH"},
-  {"img": "https://via.placeholder.com/120x160?text=5", "link": "LINK5"},
-  {"img": "https://via.placeholder.com/120x160?text=6", "link": "LINK6"},
-  {"img": "https://via.placeholder.com/120x160?text=7", "link": "LINK7"},
-  {"img": "https://via.placeholder.com/120x160?text=8", "link": "LINK8"},
-  {"img": "https://via.placeholder.com/120x160?text=9", "link": "LINK9"},
-  {"img": "https://via.placeholder.com/120x160?text=10", "link": "LINK10"}
-]
+  {"img": "https://via.placeholder.com/120x160?text=4", "link": "LINK4"},
+  {"img": "https://via.placeholder.com/120x160?text=5", "link": "LINK5"}
+];
+dibujarGaleria(materiales);
+</script>
